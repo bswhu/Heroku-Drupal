@@ -1,8 +1,8 @@
 {
-	"name": "CMS Buildpacks by TechnoMile",
+	"name": "bswkft.hu - main site",
 	"description": "Deploy your favorite CMS on Heroku using our Drupal buildpack.",
 	"repository": "https://github.com/technomile/Heroku-Drupal",
-	"logo": "http://technomile.github.io/img/cms_buildpack_github.png",
+	"logo": "https://www.drupal.org/files/druplicon-small.png",
 	"keywords": ["drupal", "heroku", "php", "mysql", "apache", "apache2", "nginx"],
 	"addons": ["cleardb:ignite","newrelic:wayne","sendgrid:starter"]
 }
